@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/FontTradeWind.spritefont</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicBucaneers.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicGame_1.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicGame_2.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicLoose.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicTitle.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/MusicWin.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/SoundBreak.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/SoundClic.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/SoundMultiShoot.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/SoundShoot.mp3</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexBall.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexBanner.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexBrickBrown.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexCannonball.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexDawn.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexFullLife.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexGameOver.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexLevelSelection.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexMultiBall.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexPaddle.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexPaddleType.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexSkullIsland.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexSunset.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexTitle.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexTwilight.png</File>
+    <File>C:/Users/Administrator/Documents/BBajusté/BuccaneerBreaker/BuccaneerBreaker/Content/TexWin.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
